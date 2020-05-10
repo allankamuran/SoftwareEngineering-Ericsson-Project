@@ -1,0 +1,277 @@
+D:\PDDL\PDDLplanning\PDDLPlanning\bin\Debug\PDDLPlanning.exe.config
+D:\PDDL\PDDLplanning\PDDLPlanning\obj\Debug\PDDLPlanning.csprojResolveAssemblyReference.cache
+D:\PDDL\PDDLplanning\PDDLPlanning\obj\Debug\PDDLPlanning.Form1.resources
+D:\PDDL\PDDLplanning\PDDLPlanning\obj\Debug\PDDLPlanning.Properties.Resources.resources
+D:\PDDL\PDDLplanning\PDDLPlanning\obj\Debug\PDDLPlanning.csproj.GenerateResource.Cache
+D:\PDDL\PDDLplanning\PDDLPlanning\bin\Debug\PDDLPlanning.exe
+D:\PDDL\PDDLplanning\PDDLPlanning\bin\Debug\PDDLPlanning.pdb
+D:\PDDL\PDDLplanning\PDDLPlanning\obj\Debug\PDDLPlanning.exe
+D:\PDDL\PDDLplanning\PDDLPlanning\obj\Debug\PDDLPlanning.pdb
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\ann.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\cdt.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\cgraph.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\config.h
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\exparse.h
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\fontconfig.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\fontconfig_fix.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\freetype6.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\getopt.h
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\glut32.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\gvc.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\gvplugin_core.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\gvplugin_dot_layout.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\gvplugin_gd.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\gvplugin_gdiplus.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\gvplugin_neato_layout.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\gvplugin_pango.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\iconv.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\intl.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\jpeg62.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libatk-1.0-0.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libcairo-2.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libexpat-1.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libexpat.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libfontconfig-1.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libfreetype-6.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgdk-win32-2.0-0.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgdkglext-win32-1.0-0.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgdk_pixbuf-2.0-0.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgio-2.0-0.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libglade-2.0-0.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libglib-2.0-0.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgmodule-2.0-0.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgobject-2.0-0.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgthread-2.0-0.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgtk-win32-2.0-0.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgtkglext-win32-1.0-0.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libltdl-3.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libpango-1.0-0.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libpangocairo-1.0-0.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libpangoft2-1.0-0.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libpangowin32-1.0-0.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libpng12.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libpng14-14.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\librsvg-2-2.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libxml2.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\ltdl.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\Pathplan.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\props.txt
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\QtCore4.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\QtGui4.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\vmalloc.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\zlib1.dll
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\config6
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\Graphviz.ini
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\gts.lib
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\Settings.ini
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\PDDLPlanning.exe.config
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\PDDLPlanning.exe
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\PDDLPlanning.pdb
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\obj\Debug\PDDLPlanning.csprojAssemblyReference.cache
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\obj\Debug\PDDLPlanning.Form1.resources
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\obj\Debug\PDDLPlanning.Properties.Resources.resources
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\obj\Debug\PDDLPlanning.csproj.GenerateResource.cache
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\obj\Debug\PDDLPlanning.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\obj\Debug\PDDLPlanning.exe
+C:\Users\Laura\Source\Repos\EricssonProject\PDDLPlanning\PDDLPlanning\obj\Debug\PDDLPlanning.pdb
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\ann.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\cdt.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\cgraph.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\config.h
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\exparse.h
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\fontconfig.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\fontconfig_fix.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\freetype6.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\getopt.h
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\glut32.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\gvc.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\gvplugin_core.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\gvplugin_dot_layout.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\gvplugin_gd.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\gvplugin_gdiplus.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\gvplugin_neato_layout.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\gvplugin_pango.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\iconv.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\intl.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\jpeg62.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libatk-1.0-0.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libcairo-2.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libexpat-1.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libexpat.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libfontconfig-1.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libfreetype-6.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgdk-win32-2.0-0.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgdkglext-win32-1.0-0.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgdk_pixbuf-2.0-0.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgio-2.0-0.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libglade-2.0-0.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libglib-2.0-0.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgmodule-2.0-0.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgobject-2.0-0.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgthread-2.0-0.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgtk-win32-2.0-0.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgtkglext-win32-1.0-0.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libltdl-3.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libpango-1.0-0.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libpangocairo-1.0-0.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libpangoft2-1.0-0.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libpangowin32-1.0-0.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libpng12.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libpng14-14.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\librsvg-2-2.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libxml2.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\ltdl.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\Pathplan.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\props.txt
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\QtCore4.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\QtGui4.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\vmalloc.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\zlib1.dll
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\config6
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\Graphviz.ini
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\gts.lib
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\Settings.ini
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\PDDLPlanning.exe.config
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\PDDLPlanning.exe
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\PDDLPlanning.pdb
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\obj\Debug\PDDLPlanning.csprojAssemblyReference.cache
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\obj\Debug\PDDLPlanning.Form1.resources
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\obj\Debug\PDDLPlanning.Properties.Resources.resources
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\obj\Debug\PDDLPlanning.csproj.GenerateResource.cache
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\obj\Debug\PDDLPlanning.csproj.CoreCompileInputs.cache
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\obj\Debug\PDDLPlanning.exe
+C:\Users\spans\Desktop\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\obj\Debug\PDDLPlanning.pdb
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\ann.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\cdt.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\cgraph.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\config.h
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\exparse.h
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\fontconfig.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\fontconfig_fix.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\freetype6.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\getopt.h
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\glut32.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\gvc.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\gvplugin_core.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\gvplugin_dot_layout.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\gvplugin_gd.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\gvplugin_gdiplus.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\gvplugin_neato_layout.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\gvplugin_pango.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\iconv.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\intl.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\jpeg62.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libatk-1.0-0.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libcairo-2.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libexpat-1.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libexpat.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libfontconfig-1.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libfreetype-6.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgdk-win32-2.0-0.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgdkglext-win32-1.0-0.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgdk_pixbuf-2.0-0.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgio-2.0-0.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libglade-2.0-0.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libglib-2.0-0.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgmodule-2.0-0.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgobject-2.0-0.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgthread-2.0-0.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgtk-win32-2.0-0.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgtkglext-win32-1.0-0.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libltdl-3.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libpango-1.0-0.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libpangocairo-1.0-0.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libpangoft2-1.0-0.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libpangowin32-1.0-0.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libpng12.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libpng14-14.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\librsvg-2-2.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\libxml2.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\ltdl.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\Pathplan.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\props.txt
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\QtCore4.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\QtGui4.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\vmalloc.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\zlib1.dll
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\config6
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\Graphviz.ini
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\gts.lib
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\external\Settings.ini
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\PDDLPlanning.exe.config
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\PDDLPlanning.exe
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\bin\Debug\PDDLPlanning.pdb
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\obj\Debug\PDDLPlanning.Form1.resources
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\obj\Debug\PDDLPlanning.Properties.Resources.resources
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\obj\Debug\PDDLPlanning.csproj.GenerateResource.Cache
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\obj\Debug\PDDLPlanning.exe
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\obj\Debug\PDDLPlanning.pdb
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\obj\Debug\PDDLPlanning.csprojResolveAssemblyReference.cache
+D:\PDDL\EricssonProject\PDDLPlanning\PDDLPlanning\obj\Debug\PDDLPlanning.csproj.CoreCompileInputs.cache
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\ann.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\cdt.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\cgraph.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\config.h
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\exparse.h
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\fontconfig.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\fontconfig_fix.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\freetype6.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\getopt.h
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\glut32.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\gvc.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\gvplugin_core.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\gvplugin_dot_layout.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\gvplugin_gd.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\gvplugin_gdiplus.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\gvplugin_neato_layout.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\gvplugin_pango.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\iconv.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\intl.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\jpeg62.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\libatk-1.0-0.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\libcairo-2.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\libexpat-1.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\libexpat.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\libfontconfig-1.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\libfreetype-6.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgdk-win32-2.0-0.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgdkglext-win32-1.0-0.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgdk_pixbuf-2.0-0.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgio-2.0-0.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\libglade-2.0-0.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\libglib-2.0-0.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgmodule-2.0-0.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgobject-2.0-0.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgthread-2.0-0.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgtk-win32-2.0-0.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\libgtkglext-win32-1.0-0.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\libltdl-3.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\libpango-1.0-0.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\libpangocairo-1.0-0.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\libpangoft2-1.0-0.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\libpangowin32-1.0-0.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\libpng12.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\libpng14-14.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\librsvg-2-2.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\libxml2.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\ltdl.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\Pathplan.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\props.txt
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\QtCore4.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\QtGui4.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\vmalloc.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\zlib1.dll
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\config6
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\Graphviz.ini
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\gts.lib
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\external\Settings.ini
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\PDDLPlanning.exe.config
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\PDDLPlanning.exe
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\bin\Debug\PDDLPlanning.pdb
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\obj\Debug\PDDLPlanning.csprojResolveAssemblyReference.cache
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\obj\Debug\PDDLPlanning.Form1.resources
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\obj\Debug\PDDLPlanning.Properties.Resources.resources
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\obj\Debug\PDDLPlanning.csproj.GenerateResource.Cache
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\obj\Debug\PDDLPlanning.csproj.CoreCompileInputs.cache
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\obj\Debug\PDDLPlanning.exe
+D:\PDDL\EricssonProject - kopia\PDDLPlanning\PDDLPlanning\obj\Debug\PDDLPlanning.pdb
